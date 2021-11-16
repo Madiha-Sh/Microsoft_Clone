@@ -1,8 +1,5 @@
 ## This repo contains the Microsoft clone page
 
-- [page1](#page-1)
-- [page2](#page-2)
-
 ## page1
 ![page1](./images/page1.png)
 ## page2
