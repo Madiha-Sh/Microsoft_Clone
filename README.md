@@ -4,9 +4,9 @@
 - [Page2](#page-2)
 
 ## Page1
-![Page1](./images/page1.png)
+![page1](./images/page1.png)
 ## Page2
-![Page2](./images/page2.png)
+![page2](./images/page2.png)
 
 ### Copy below url to go to actual page:
 
